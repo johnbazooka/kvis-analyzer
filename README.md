@@ -180,7 +180,7 @@ kvis-analyzer/
 
 ## Author
 
-**Víctor Pino** — [GitHub](https://github.com/vpino) — Part of KRGN Systems
+**Víctor Pino Alonso** ([johnbazooka](https://github.com/johnbazooka)) — Founder, KRGN Systems
 
 ## License
 
