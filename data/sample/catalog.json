@@ -1,0 +1,20 @@
+{
+    "videos": [
+        {
+            "video_id": "dQw4w9WgXcQ",
+            "title": "Example Video - Music Production Tutorial",
+            "channel": "Example Creator",
+            "category": "produccion",
+            "tags": ["tutorial", "produccion"],
+            "nutrients": 3,
+            "status": "analyzed"
+        }
+    ],
+    "categories": {
+        "produccion": "Producción",
+        "marketing": "Marketing",
+        "educacion": "Educación",
+        "entretenimiento": "Entretenimiento",
+        "cultura": "Cultura"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "video_id": "dQw4w9WgXcQ",
+    "title": "Example Video - Music Production Tutorial",
+    "channel": "Example Creator",
+    "duration_seconds": 420,
+    "category": "produccion",
+    "tags": ["tutorial", "produccion", "musica"],
+    "nutrients": [
+        {
+            "id": 1,
+            "text": "Usar compresión paralela para mantener el punch sin perder dinámica",
+            "type": "tecnica",
+            "relevance": 0.92
+        },
+        {
+            "id": 2,
+            "text": "El sidechain del kick al bass es esencial en producción electrónica",
+            "type": "tecnica",
+            "relevance": 0.88
+        },
+        {
+            "id": 3,
+            "text": "Ecualizar antes de comprimir para evitar amplificar frecuencias no deseadas",
+            "type": "tip",
+            "relevance": 0.85
+        }
+    ],
+    "stats": {
+        "views": 15000,
+        "likes": 890,
+        "comments_count": 67
+    },
+    "analyzed_at": "2026-05-28T22:00:00"
+}
